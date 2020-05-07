@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.9.1)
+  - IQKeyboardManagerSwift (6.5.5)
+  - LXStatusAlert (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - LXStatusAlert
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - LXStatusAlert
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  LXStatusAlert: bfed15757e0004421b28b0c15f0a67963805025d
+
+PODFILE CHECKSUM: 9ae5e0bb407d3b3a384dcfa0b152c75a3f0d37fe
+
+COCOAPODS: 1.8.4
